@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5"/>
+	<classpathentry kind="lib" path="C:/Users/Asus/Desktop/Testing/poi-3.16.jar" sourcepath="C:/Users/Asus/Desktop/Testing/poi-3.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Asus/Desktop/Testing/selenium-server-standalone-3.6.0.jar" sourcepath="C:/Users/Asus/Desktop/Testing/selenium-server-standalone-3.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Asus/Desktop/eclipse/plugins/org.junit_4.11.0.v201303080030/junit.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
