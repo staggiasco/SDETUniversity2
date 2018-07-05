@@ -2,7 +2,7 @@ package Desarrollo;
 
 
 
-import java.util.concurrent.TimeUnit;
+//import java.util.concurrent.TimeUnit;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
@@ -22,7 +22,7 @@ public class Inicio extends AbstractPageObject{
 	JavascriptExecutor js = (JavascriptExecutor) driver;
 
 	WebDriverWait wait = new WebDriverWait(driver, 30);
-	private static final TimeUnit SECONDS = null;
+	//private static final TimeUnit SECONDS = null;
 
 	
 			// hola
