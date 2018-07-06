@@ -10,13 +10,21 @@ public class BaseTest {
 	
     //Chrome
     public static final String URL_SDETUniversity = "http://sdetuniversity.com/projects/";
+<<<<<<< HEAD
     public static final String WEB_DRIVER_PATH ="C:\\Users\\32343720\\git\\SDETUniversity2\\Librerias\\chromedriver.exe";
+=======
+    public static final String WEB_DRIVER_PATH ="C:\\Users\\Asus\\Desktop\\Testing\\Librerias\\chromedriver.exe";
+>>>>>>> b81e9c151f0ddf7c46b9af919536763d2d675228
     public static final String WEB_DRIVER_CHROME_DRIVER_PROPERTY = "webdriver.chrome.driver"; 
     public static WebDriver driver;
     public static WebDriverWait driverWait;
     
     //Mozilla Firefox
+<<<<<<< HEAD
     public static final String WEB_FF_DRIVER_PATH ="C:\\Users\\32343720\\git\\SDETUniversity2\\Librerias\\geckodriver.exe";
+=======
+    public static final String WEB_FF_DRIVER_PATH ="C:\\Users\\Asus\\Desktop\\Testing\\Librerias\\geckodriver.exe";
+>>>>>>> b81e9c151f0ddf7c46b9af919536763d2d675228
     public static final String WEB_DRIVER_FF_DRIVER_PROPERTY = "webdriver.gecko.driver"; 
     
     

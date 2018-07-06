@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 
 
 /Librerias
+=======
+.jar
+>>>>>>> b81e9c151f0ddf7c46b9af919536763d2d675228
